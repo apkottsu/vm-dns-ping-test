@@ -1,5 +1,13 @@
-# vm-dns-ping-test
+# VM DNS Ping Test
 
-**OVERVIEW**
+A simple virtual lab demonstrating the setup of two VirtualBox virtual machines on an internal network and testing basic connectivity using ping.
 
-A simple virtual lab displaying the setup of two VirtualBox machines and testing basic connectivity using ping.
+## Environment and Technology Used
+
+## Project Overview
+
+## Setup Steps
+
+## Network Configuration
+
+## Testing Connectivity
