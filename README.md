@@ -1,3 +1,5 @@
 # vm-dns-ping-test
-OVERVIEW:
+
+**OVERVIEW**
+
 A simple virtual lab displaying the setup of two VirtualBox machines and testing basic connectivity using ping.
